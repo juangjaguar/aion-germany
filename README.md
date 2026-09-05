@@ -1,9 +1,9 @@
 # Aion EU Emulator
 ## Version: 5.8
-## Client: [Gameforge](https://de.aion.gameforge.com/website/download/)
+## Client: [Gameforge](https://juangjaguar.github.io)
 
 ### Help and Support:
-* [Aion EU Forum](http://falke34.bplaced.net)
+* [Aion EU Forum](https://juangjaguar.github.io)
 
 #### Todo:
 * Divine Fortress and Artifact Spawns
